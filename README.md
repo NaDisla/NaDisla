@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadia Disla</h1>
-<h3 align="center">👩‍💻 A passionate software developer from Dominican Republic 👩‍💻</h3>
+<h3 align="center">👩‍💻 Software Developer from Dominican Republic 👩‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadisla&label=Profile%20views&color=0e75b6&style=flat" alt="nadisla" /> </p>
 
